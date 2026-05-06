@@ -12,3 +12,6 @@ Key highlights:
 * Secure communication using E2EE encryption
 * Secret key exchange using X25519
 * Saving the user's chat history locally (AES encrypted)
+
+## Project gallery
+* [Link to project gallery](https://jmojzes21.github.io/portfolio_page/projects/secure-chat#gallery)
