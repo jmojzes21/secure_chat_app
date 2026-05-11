@@ -14,4 +14,4 @@ Key highlights:
 * Saving the user's chat history locally (AES encrypted)
 
 ## Project gallery
-* [Link to project gallery](https://jmojzes21.github.io/portfolio_page/projects/secure-chat#gallery)
+* [Link to project gallery](https://jmojzes21.github.io/portfolio_page/#/projects/secure-chat#gallery)
