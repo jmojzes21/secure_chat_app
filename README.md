@@ -10,8 +10,8 @@ Secure Chat is a simple chat application with security in focus. It uses end-to-
 * Saving the user's chat history locally (AES encrypted)
 
 ### My role in the team
-* Developed the complete frontend of a mobile application using Flutter
-* Implemented E2EE encryption logic on the mobile application
+* Developed the complete frontend of the application using Flutter
+* Implemented E2EE encryption logic on the application
 
 ## Project gallery
 * [Link to project gallery](https://jmojzes21.github.io/portfolio_page/#/projects/secure-chat#gallery)
